@@ -1,12 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Mai Thi Linh Chi 👋</h1>
 
-<p align="center">
-  🎓 4th-year Information Technology Student at <strong>Vietnam Women's Academy</strong><br>
-  💻 Passionate about building creative and user-friendly web applications<br>
-  🌏 Based in Hanoi, Vietnam
-</p>
-
 ---
 
 ### 🧠 Areas of Interest
@@ -39,10 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="165"/>
 </p>
 
 ---
